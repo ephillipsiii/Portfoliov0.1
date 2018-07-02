@@ -6,17 +6,18 @@
     padding: 48x;
     margin: 100px;
 } */
-#contactButton1 {
+.fa-linkedin {
     font-size: 48px;
     color: dodgerblue;
 }
 
-#contactButton2 {
+.fa-github-square {
     font-size: 48px;
     color: Black;
 }
 
-#contactButton3 {
+.fa-stack-overflow {
     font-size: 48px;
     color: orange;
 }
+
