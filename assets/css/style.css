@@ -2,6 +2,21 @@
     margin: 50px;
 }
 
-.fab {
+/* .fab fa-linkedin {
     padding: 48x;
+    margin: 100px;
+} */
+#contactButton1 {
+    font-size: 48px;
+    color: dodgerblue;
+}
+
+#contactButton2 {
+    font-size: 48px;
+    color: Black;
+}
+
+#contactButton3 {
+    font-size: 48px;
+    color: orange;
 }
