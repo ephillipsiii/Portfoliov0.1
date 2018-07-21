@@ -31,7 +31,9 @@
     height: 25%;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50%
+    border-radius: 50%;
+    padding: 1px;
+    border:1px solid #021a40;
 }
 
 .carousel slide .carousel-item {
@@ -48,5 +50,9 @@
 .carousel slide {
     height: 25%;
     width: 50%;
+}
+
+.nav {
+    color: rgb(109, 131, 168);
 }
 
