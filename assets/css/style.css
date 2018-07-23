@@ -41,6 +41,7 @@
     height: 146px;
     max-height: 146px;
     object-fit: contain;
+    background-color: blueviolet;
 }
 /* .carousel-item {
     height: 50%;
@@ -52,7 +53,7 @@
     width: 50%;
 }
 
-.nav {
+.navbar-brand {
     color: rgb(109, 131, 168);
 }
 
