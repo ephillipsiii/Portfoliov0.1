@@ -52,11 +52,32 @@
     width: 100%;
 }  */
 
-.carousel slide {
+/* .carousel slide {
     height: 50%;
     width: 75%;
     overflow: hidden;
     
+} */
+
+.carousel-inner {
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0);
+    overflow: hidden;
+    border-color: antiquewhite;
+}
+
+#carouselJumbotron {
+    background-color: #c5c9d3;
+}
+
+.carousel-item active {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23)
+}
+/*#4f86c
+#434447*/
+
+.carousel-indicators{
+    color: white;
 }
 
 .navbar {
@@ -66,6 +87,7 @@
 
 .jumbotron {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    background-color: #c5c9d3;
 }
 
 .card {
@@ -76,3 +98,10 @@
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
+body {
+    background-color: #d6e0ff;
+}
+
+#cardColor {
+    background-color: #FFFAFA;
+}
